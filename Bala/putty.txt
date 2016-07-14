@@ -1,0 +1,6 @@
+This is putty text file.
+Write linux command.
+See Github video recording
+given by Bala 
+
+Thank you
