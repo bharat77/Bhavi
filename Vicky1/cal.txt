@@ -1,0 +1,3 @@
+This file is create to check functionality of Calculator function
+
+Created on Thursday 14 July-16
